@@ -1,0 +1,27 @@
+.mh{
+    color:white;
+    font-weight: bold;
+    padding: 30px;
+}
+.pl{
+    font-style: normal;
+}
+.tg{
+    background-image: url("https://img.freepik.com/premium-photo/customer-restaurant-blur-background-with-bokeh_219766-2352.jpg?size=626&ext=jpg&uid=R85202679&ga=GA1.2.1859394032.1668591111&semt=ais");
+    height:210vh;
+    background-size: cover;
+}
+.aa{
+    font-style: italic;
+    color:rgb(19, 19, 19);
+    padding:30px;
+    background-color:white;
+    border-radius:20px;
+    font-weight: bold;
+    margin:30px;
+    cursor: pointer;
+}
+.ikg{
+    width:15%;
+    border-radius: 25px;
+}

@@ -1,0 +1,26 @@
+.bg{
+    background-image: url("https://img.freepik.com/free-photo/abstract-blur-coffee-shop-restaurant_74190-5098.jpg?size=626&ext=jpg&uid=R85202679&ga=GA1.2.1859394032.1668591111&semt=ais");
+    height: 100vh;
+    background-size: 100vw;
+}
+.pal{
+    color:white;
+    font-size: 50px;
+    text-align: center;
+}
+.pr{
+    color:black;
+    text-size-adjust: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.tr{
+    padding:20px;
+    background-color: lightcoral;
+    border-radius: 30px;
+    margin:30%;
+}
+.cen{
+    text-align: center;
+}
